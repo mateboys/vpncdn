@@ -1,8 +1,8 @@
 <p align="center">
 	<a href="http://cdn.usfom.com/"><img src="http://cdn.usfom.com/images/logo.jpg" width="45%"></a>
 </p>
+<h3 align="center">官方文档</h3>
 <p align="center">
-<h3>官方文档</h3>
 	<strong>A free and high-speed virtual private network.</strong>
 </p>
 <p align="center">
