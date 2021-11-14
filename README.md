@@ -6,7 +6,7 @@
 	<strong>A free and high-speed virtual private network.</strong>
 </p>
 <p align="center">
-<a href="http://cdn.usfom.com">http://cdn.usfom.com</a>
+<a href="http://vpn.usfom.com">http://vpn.usfom.com</a>
 </p>
 
 
@@ -25,7 +25,7 @@
 
 我们提供云加速、云存储等免费服务，使用我们的服务需向我们进行工单申请，当我们审核通过后，会将账号与密码等资料一并通过邮件的形式发给用户
 
-- 申请邮箱：[mailto:admin@usfom.com](mailto:admin@usfom.com)
+- 申请邮箱：[admin@usfom.com](mailto:admin@usfom.com)
 
 
 -------------------------------------------------------------------------------
@@ -41,6 +41,21 @@
 -------------------------------------------------------------------------------
 
 
+
+## 反馈
+
+### 工单提交/申请/建议/反馈
+
+- 申请使用：[VPN账号申请入口](http://vpn.usfom.com/user/)
+
+- 联系邮箱：[admin@usfom.com](mailto:admin@usfom.com)
+
+
+
+-------------------------------------------------------------------------------
+
+
+
 ## 支持我们
 
 ### 捐赠
@@ -48,16 +63,6 @@
 若你支持我们的服务，可以向我们进行捐赠以支持我们服务器的维护费用
 
 [捐赠](mailto:admin@usfom.com)
-
--------------------------------------------------------------------------------
-
-
-## 反馈
-
-### 工单提交/申请/建议/反馈
-
-- 邮箱：[mailto:admin@usfom.com](mailto:admin@usfom.com)
-
-
+![支付宝](http://vpn.usfom.com/donation.jpg)
 
 -------------------------------------------------------------------------------
