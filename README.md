@@ -62,7 +62,7 @@
 
 若你支持我们的服务，可以向我们进行捐赠以支持我们服务器的维护费用
 
-[捐赠](mailto:admin@usfom.com)
-![支付宝](http://vpn.usfom.com/images/donation.jpg)
+- [捐赠](mailto:admin@usfom.com)
+- ![支付宝](http://vpn.usfom.com/images/donation.jpg)
 
 -------------------------------------------------------------------------------
