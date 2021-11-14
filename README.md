@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://cdn.usfom.com/"><img src="http://cdn.usfom.com/images/logo_484.png" width="45%"></a>
+	<a href="http://vpn.usfom.com/"><img src="http://vpn.usfom.com/images/logo_484.png" width="45%"></a>
 </p>
 <h3 align="center">官方文档</h3>
 <p align="center">
